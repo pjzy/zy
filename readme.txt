@@ -3,4 +3,7 @@ bb
 cc
 dd
 ee
-ff:
+ff
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+
