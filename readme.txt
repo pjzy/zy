@@ -6,4 +6,5 @@ Creating a new branch is quick.
 reating a new branch is quick & simple.
 fast forward
 stash 1111
-
+stash 2222
+stash 3333
