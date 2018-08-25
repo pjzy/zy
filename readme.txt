@@ -5,3 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick.
 reating a new branch is quick & simple.
 fast forward
+stash 1111
+
